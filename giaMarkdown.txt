@@ -1,0 +1,9 @@
+
+< h1 > #
+< h2 > ##
+< h3 > ###
+< h4 > ####
+...
+    HTML  		   MARKD      	  FUNÇ
+<strong>		** texto**   	negrito
+     < i >	 	    _texto_  	    	intalico
