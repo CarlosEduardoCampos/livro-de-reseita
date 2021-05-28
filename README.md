@@ -6,4 +6,5 @@ Seja bem vindo ao meu livro de receitas :wave:
 
 - Strogonoff de frango :chicken:
 - Pavê :eye_speech_bubble:
+- Bolo de Cenoura :cake:
 
